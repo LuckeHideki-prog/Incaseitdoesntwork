@@ -2,4 +2,4 @@
 
 App desenvolvido durante a disciplina.
 
-Criei este outro repositorio caso o primeiro não funcionar porque acho que exclui algumas coisasa que não deveria ter excluido 
+Criei este outro repositório caso o primeiro não funcionar porque acho que exclui algumas coisas que não deveriam ter sido excluidas
